@@ -1,2 +1,3 @@
 # XJConverter
-Framework for create 100% swift application from your Xojo UI Code
+Simple tools for convert Xojo UI to PureBasic UI
+
